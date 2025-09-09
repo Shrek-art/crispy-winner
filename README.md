@@ -1,5 +1,4 @@
 # crispy-winner
-Ma numesc Brian Moser
-Scary Monster
+Ma numesc Alan
 Colegiu UTM anul 2
 Imi place sa desenez vectorial
