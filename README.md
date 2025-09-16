@@ -1,10 +1,14 @@
 # crispy-winner
-Ma numesc Alan
-Colegiu UTM anul 2
-Imi place sa desenez vectorial
 
-#Hobby
+Ma numesc Alan  
+Colegiu UTM anul 2  
+Imi place sa desenez vectorial  
 
-Imi place sa desenez
-Imi place sa programez
-#Profesie
+## Hobby
+
+Imi place sa desenez  
+Imi place sa programez  
+
+## Profesie
+
+Web Designer  
